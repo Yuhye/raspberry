@@ -53,7 +53,7 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 <br>
 
  <h3> 제작동기 </h3>
-
+<br>
  <img src="https://user-images.githubusercontent.com/55028104/101987654-e3f4b600-3cd8-11eb-8a66-434f1d07e1d4.jpeg" alt="drive" width="600"/>
  <br>
 사람들은 음주 후의 운전의 위험함과 심각성을 충분히 인지하고 있지만, 음주운전으로 인한 사고 비율은 [__여전히 높은 추세입니다.__](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84)  
@@ -70,9 +70,16 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 
  <br>
 
+-------------------------------------------------------------------
 
+<br>
+<br> 
 
+<h3> 라즈베리파이 구성도 </h3>
+<br>
+ <img src="https://user-images.githubusercontent.com/55028104/101988074-0091ed80-3cdb-11eb-8f6e-930be7482161.png" alt="configuration"/>
 
-
+ <br>
+-------------------------------------------------------------------
 
 
