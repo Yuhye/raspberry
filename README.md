@@ -34,9 +34,9 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
          
 * 도식화
 
-* 동작 시연
-         
 * 문제점과 해결과정
+         
+* 동작 시연
          
 * Q&A
 
@@ -96,9 +96,10 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 <br>
 <br> 
 
-<h3> 동작시연  </h3>
+<h3> 문제점과 해결과정 </h3>
+
 <br>
- <img src="https://user-images.githubusercontent.com/55028104/101988164-4fd81e00-3cdb-11eb-8034-b2187fb11fb7.PNG" alt="schematization"/>
+ <img src="" alt=""/>
 
  <br>
 
@@ -106,10 +107,9 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 
 <br>
 <br> 
-
-<h3> 문제점과 해결과정 </h3>
+<h3> 동작시연  </h3>
 <br>
- <img src="https://user-images.githubusercontent.com/55028104/101988164-4fd81e00-3cdb-11eb-8034-b2187fb11fb7.PNG" alt="schematization"/>
+ <img src="" alt=""/>
 
  <br>
 
@@ -117,6 +117,6 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 <br>
 <br>
 
- <h1 align="center" Q & A> </h1>    
+ <h1 align="center"> Q & A </h1>    
 
 
