@@ -12,4 +12,7 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 
 
 <img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg  height="800" width="500" >
-![Car](https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg)
+
+
+ <img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="250"/>                                                                                                                                        
+                                                                                                                                         
