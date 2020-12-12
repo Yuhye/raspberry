@@ -65,7 +65,8 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 <br> 
 
 <h3> 사용 품목 </h3>
- <img src="https://user-images.githubusercontent.com/55028104/101988037-b14bbd00-3cda-11eb-9af6-fe8842f54ec7.jpg" alt="sensor" width="500"/>
+<br>
+ <img src="https://user-images.githubusercontent.com/55028104/101988037-b14bbd00-3cda-11eb-9af6-fe8842f54ec7.jpg" alt="sensor"/>
 
  <br>
 
