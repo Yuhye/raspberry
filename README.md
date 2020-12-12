@@ -13,6 +13,6 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 -----------------------------------------------------------------------------------
 음주운전 방지를 위한 차량부착형 MQ-3 알코올 감지센서 
 
- <img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="800"/>                                             <img src="https://user-images.githubusercontent.com/55028104/101986756-3cc15000-3cd3-11eb-9458-e2183839231b.PNGalt="logo" />                                                                 
+ <img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="800"/>                                               <img src="https://user-images.githubusercontent.com/55028104/101986756-3cc15000-3cd3-11eb-9458-e2183839231b.PNG" alt="logo"  width="600" />                                                                 
                                                                                                                                          
 --------------------------------------------------------------------------------
