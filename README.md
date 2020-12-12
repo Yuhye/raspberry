@@ -28,7 +28,7 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 
 * 제작 동기
          
-* 사용한 물품 목록(센서)
+* 사용 품목
           
 * 라즈베리파이 구성도
          
@@ -55,11 +55,19 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
  <h3> 제작동기 </h3>
 
  <img src="https://user-images.githubusercontent.com/55028104/101987654-e3f4b600-3cd8-11eb-8a66-434f1d07e1d4.jpeg" alt="drive" width="600"/>
-
-사람들은 음주 후의 운전의 위험함과 심각성을 충분히 인지하고 있지만, 음주운전으로 인한 사고 비율은 [__날이 갈 수록 증가하고 있습니다.__](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84)  
+ <br>
+사람들은 음주 후의 운전의 위험함과 심각성을 충분히 인지하고 있지만, 음주운전으로 인한 사고 비율은 [__여전히 높은 추세입니다.__](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84)  
 따라서 본 프로젝트는 라즈베리파이를 이용한 저가의 하드웨어를 이용하여 음주운전 시도 시 주변 사람들에게 텔레그램으로 알람을 주는 키트를 제작했습니다.
 
+-------------------------------------------------------------------
 
+<br>
+<br> 
+
+<h3> 사용 품목 </h3>
+ <img src="https://user-images.githubusercontent.com/55028104/101987738-59608680-3cd9-11eb-83ed-e87ea5ac4ac2.jpg" alt="sensor" width="500"/>
+ <img src="https://user-images.githubusercontent.com/55028104/101987739-5a91b380-3cd9-11eb-8b3a-4faa01f79032.jpg" alt="sensor" width="500"/>
+ <br>
 
 
 
