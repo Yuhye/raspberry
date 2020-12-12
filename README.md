@@ -17,7 +17,7 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
     
     
 <h2 align="center">음주운전 방지를 위한 차량부착형 MQ-3 알코올 감지센서</h2>
-🥰 Member
+🥰 Member <br>
 [사영훈](https://github.com/tkdudgns95) | <br>
 [유혜상](https://github.com/Yuhye) |<br>
 [이창해](https://github.com/vip7gain) | <br>
