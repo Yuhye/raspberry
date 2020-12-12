@@ -18,9 +18,7 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
     
 <h2 align="center">음주운전 방지를 위한 차량부착형 MQ-3 알코올 감지센서</h2>
 
- <img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="800"/>      
- 
-                                                                                                                                         
+
 <br>
 
 #### <h2> 🚩목차 </h2>
@@ -41,12 +39,19 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 
 <br>
 
+ <h3> 프로젝트 소개 </h3>
+ 
+ <img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="800"/>      
+ <br>
+ 이번 프로젝트에 제작한 것은 mq3센서를 이용한 차량부착형 알코올 감지키트입니다 운전자 좌석 차량옆면이나 위에 부착하여 사용합니다 
+
+-----------------------------------------------------------------                                                                                                                               
+
 
  <h3> 제작동기 </h3>
 
 사람들은 음주 후의 운전의 위험함과 심각성을 충분히 인지하고 있지만, 음주운전으로 인한 사고 비율은 [__날이 갈 수록 증가하고 있습니다.__](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84)  
 따라서 본 프로젝트는 라즈베리파이를 이용한 저가의 하드웨어를 이용하여 음주운전 시도 시 주변 사람들에게 텔레그램으로 알람을 주는 키트를 제작했습니다.
-
 
 
 
