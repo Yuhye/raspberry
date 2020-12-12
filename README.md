@@ -11,8 +11,5 @@ __🥰 Member__  : | [차민재](https://github.com/charmingjae) | [전민수](h
 따라서 본 프로젝트는 라즈베리파이를 이용한 저가의 하드웨어를 이용하여 음주운전 시도 시 알람을 주는 키트를 제작하고자 한다.
 
 
-<img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg  height="800" width="500" >
-
-
- <img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="250"/>                                                                                                                                        
+ <img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="500"/>                                                                                                                                        
                                                                                                                                          
