@@ -50,7 +50,7 @@ __🥰 Member__
 -----------------------------------------------------------------                                                                                                                               
 <br>
 <br>
-### 프로젝트  
+### 프로젝트 소개
  
 <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="800"/>      
  <br>
